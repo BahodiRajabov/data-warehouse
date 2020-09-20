@@ -125,6 +125,7 @@ body {
   margin-left: auto;
   text-align: center;
   margin-right: auto;
+  margin-bottom: 70px;
 }
 .futures_header {
   font-weight: bold;
@@ -157,13 +158,13 @@ body {
 .card_green_item {
   background: #bce9e2;
 }
-.card_red_item{
+.card_red_item {
   background: #e3d8f3;
 }
-.card_darkred_item{
+.card_darkred_item {
   background: #f0bfdc;
 }
-.card_blue_item{
+.card_blue_item {
   background: #b8d9ec;
 }
 .futures_info {
